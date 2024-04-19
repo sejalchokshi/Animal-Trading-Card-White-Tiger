@@ -1,0 +1,51 @@
+/* add your CSS here */
+html {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#mymaincard {
+  width: 320px;
+  margin-left: 35px;
+  margin-right: 35px;
+  background-color: rgb(242, 242, 242);
+  border: 1px solid lightgrey;
+  box-shadow: 8px 8px lightgrey; 
+}
+
+.animalname {
+  border: 1px solid rgb(242, 242, 242);
+  font-weight: bold;
+  padding-left: 0px 10px 0px 0px;
+}
+
+.image {
+  width: 300px;
+  padding: 0px 10px 0px 10px;
+  margin-bottom: 10px;
+}
+
+#description {
+  border: 1px solid lightgrey;
+  padding: 10px;
+  margin: 10px;
+}
+
+.funfacts {
+  font-style: italic;
+  padding-left: 0px 15px 0px 15px;
+}
+
+.list {
+  list-style: none;
+  padding: 0px 5px 0px 5px;
+  margin: 0px 10px 0px 10px;
+}
+
+.boldlist {
+  font-weight: bold;
+}
+
+.details {
+  margin: 0px 10px 0px 10px;
+  padding: 0px 5px 0px 5px;
+}
